@@ -6,7 +6,7 @@ const Example = () => {
 
   useEffect(() => {
     try {
-      const response = axios.get("https://7c5af058-5486-4fe0-a12d-d0768da5df0f-00-24ug6nsenzof7.worf.replit.dev:3001/")
+      const response = axios.get("https://bea3dbf8-6a08-4510-8f34-bf0d7ed58d44-00-isivl9igsjnl.sisko.replit.dev:3001/")
       console.log(response)
       setMessage(response.data.message);
     } catch (error) {
