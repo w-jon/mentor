@@ -1,3 +1,8 @@
+#Official group 2 git repo
+
+
+below is the readme.md imported from tutor's replit
+
 ## Running React on Replit
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
